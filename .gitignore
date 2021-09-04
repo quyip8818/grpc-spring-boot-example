@@ -1,5 +1,7 @@
 HELP.md
 target/
+**/.gradle
+**/gradle
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -12,6 +14,8 @@ target/
 .settings
 .springBeans
 .sts4-cache
+.gradle
+.mvn
 
 ### IntelliJ IDEA ###
 .idea

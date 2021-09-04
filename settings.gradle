@@ -1,0 +1,3 @@
+rootProject.name = 'grpc-spring-boot-example'
+include 'greeting-common'
+include 'greeting-service'
